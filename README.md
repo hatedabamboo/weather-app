@@ -1,2 +1,9 @@
-# weather-app
-Code examples for the article "Honey, I Shrunk the App: minimizing containerized applications"
+# Weather App
+
+Code examples for the article "[Honey, I Shrunk the App: minimizing containerized applications](https://notes.hatedabamboo.me/minimizing-containerized-applications/)"
+
+This repository consists of five levels of Docker image rarity, each consecutively more efficient and, at times, more complex.
+
+The application is written in Python, but for the Legendary level, it has been rewritten in Golang to compile it into a static binary.
+
+To run the application, replace `YOUR_WEATHER_API_KEY` string in `app.py`/`app.go`.
