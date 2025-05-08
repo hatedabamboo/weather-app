@@ -1,6 +1,6 @@
 # Weather App
 
-Code examples for the article "[Honey, I Shrunk the App: minimizing containerized applications](https://notes.hatedabamboo.me/minimizing-containerized-applications/)"
+Code examples for the article "[How to minimize docker image size: 4 key approaches](https://notes.hatedabamboo.me/minimizing-containerized-applications/)"
 
 This repository consists of five levels of Docker image rarity, each consecutively more efficient and, at times, more complex.
 
